@@ -1,0 +1,54 @@
+.Commonstyle{
+    background-color: rgb(111, 158, 230);
+    border: solid 2 px white;
+    position: absolute;
+    text-align: right;
+}
+
+.Header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.padding{
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 50px;
+    padding-bottom: 5px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 50px;
+    left: 114px;
+    right: 114px;
+}
+.tableau{
+    size: 50%;
+    height: 100%;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    font-size: 8px;
+    text-align:center;
+    position: fixed;
+    border-radius: 25px;
+}
+
+.footertext{
+    text-align: center;
+    font-size: 15px;    
+    padding: 23px;
+
+}
+
+.navtext{
+
+}

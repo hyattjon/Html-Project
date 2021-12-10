@@ -1,0 +1,58 @@
+/*Jonathan Hyatt 12/##/2021*/
+.headertext{
+    color: purple;
+    
+}
+
+.custombg{
+    background-color: aqua ;
+    background-image: url(Mountainbackground.png);
+}
+
+.center{
+    text-align: center;
+}
+
+.whitetext{
+    color: white
+}
+
+.underline{
+    text-decoration-line: underline;
+}
+
+.headres{
+    font-weight: bold;
+
+}
+
+.rightalign{
+    text-align: right;
+}
+
+.homeimage{
+    
+    Right: 200px;
+    width: 200px;
+    bottom: 200px;
+}
+
+.unbold{
+    font-weight: lighter;
+}
+
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.padding{
+    padding: 10px;
+}
+
+.fontsize{
+    font-size: 25px;
+}
+
+.invisible{
+    opacity: 0%;
+}
